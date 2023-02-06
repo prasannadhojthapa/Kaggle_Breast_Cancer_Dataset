@@ -3,7 +3,7 @@
 
 # #### Kaggle Breast Cancer Dataset
 
-# In[ ]:
+# In[ ]: Need to import the file and then start again! Make minor corrections with the last file. 
 
 
 
